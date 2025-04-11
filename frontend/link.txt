@@ -1,0 +1,4 @@
+Github frontend link: https://github.com/umama-cloud/CST3144-Full-Stack/tree/main/frontend/
+GitHub Backend link: https://github.com/umama-cloud/CST3144-Full-Stack/tree/main/backend
+GitHub Link: https://github.com/umama-cloud
+Render Link: https://cst3144-full-stack-frontend.onrender.com/

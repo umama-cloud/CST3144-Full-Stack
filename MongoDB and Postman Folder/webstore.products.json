@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "67f50d1df7cb8809c7242036"
+  },
+  "id": 103,
+  "title": "Cricket Club",
+  "subject": "Cricket Club",
+  "location": "Dubai",
+  "price": 115,
+  "image": "images/cricket-club.jpg",
+  "AvailableInventory": 13
+},
+{
+  "_id": {
+    "$oid": "67f50d1df7cb8809c724203b"
+  },
+  "id": 108,
+  "title": "Photography Club",
+  "subject": "Photography Club",
+  "location": "Madrid",
+  "price": 110,
+  "image": "images/photography-club.jpg",
+  "AvailableInventory": 14
+},
+{
+  "_id": {
+    "$oid": "67f50d1df7cb8809c7242034"
+  },
+  "id": 101,
+  "title": "Archery Club",
+  "subject": "Archery Club",
+  "location": "Dubai",
+  "price": 90,
+  "image": "images/archery-club.jpg",
+  "AvailableInventory": 11
+},
+{
+  "_id": {
+    "$oid": "67f50d1df7cb8809c724203c"
+  },
+  "id": 109,
+  "title": "Swimming Club",
+  "subject": "Swimming Club",
+  "location": "Italy",
+  "price": 80,
+  "image": "images/swimming-club.jpg",
+  "AvailableInventory": 12
+},
+{
+  "_id": {
+    "$oid": "67f50d1df7cb8809c724203d"
+  },
+  "id": 110,
+  "title": "Volleyball Club",
+  "subject": "Volleyball",
+  "location": "Dubai",
+  "price": 100,
+  "image": "images/Volleyball-club.jpg",
+  "AvailableInventory": 10
+},
+{
+  "_id": {
+    "$oid": "67f50d1df7cb8809c7242037"
+  },
+  "id": 104,
+  "title": "Dance Club",
+  "subject": "Dance Club",
+  "location": "London",
+  "price": 105,
+  "image": "images/dance-club.jpg",
+  "AvailableInventory": 12
+},
+{
+  "_id": {
+    "$oid": "67f50d1df7cb8809c7242039"
+  },
+  "id": 106,
+  "title": "Hockey Club",
+  "subject": "Hockey Club",
+  "location": "Barcelona",
+  "price": 85,
+  "image": "images/hockey-club.jpg",
+  "AvailableInventory": 10
+},
+{
+  "_id": {
+    "$oid": "67f50d1df7cb8809c724203a"
+  },
+  "id": 107,
+  "title": "Karate Club",
+  "subject": "Karate Club",
+  "location": "Abu Dhabi",
+  "price": 120,
+  "image": "images/karate-club.png",
+  "AvailableInventory": 15
+},
+{
+  "_id": {
+    "$oid": "67f50d1df7cb8809c7242035"
+  },
+  "id": 102,
+  "title": "Art Club",
+  "subject": "Art Club",
+  "location": "AbuDhabi",
+  "price": 100,
+  "image": "images/art-club.jpg",
+  "AvailableInventory": 15
+},
+{
+  "_id": {
+    "$oid": "67f50d1df7cb8809c7242038"
+  },
+  "id": 105,
+  "title": "Drama Club",
+  "subject": "Drama Club",
+  "location": "Scotland",
+  "price": 95,
+  "image": "images/Drama-club.png",
+  "AvailableInventory": 17
+}]
