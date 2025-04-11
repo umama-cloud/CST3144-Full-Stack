@@ -73,7 +73,7 @@ function getCollection(name) {
     }
   });
   
-  /////// Update a document by ID
+  //////// Update a document by ID
   app.put("/collection/:collectionName/:id", async (req, res, next) => {
     try {
       const collection = getCollection(req.params.collectionName);
